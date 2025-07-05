@@ -67,7 +67,7 @@ Each dataset was read using strict Spark `StructType` schemas to ensure accurate
 - Win margins by season  
 - Man of the Match distribution
 
-_👉 Dashboards are available on request or in the `/PowerBI` folder._
+_👉 Dashboards are available on request._
 
 ---
 
